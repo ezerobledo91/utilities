@@ -14,4 +14,4 @@ Groups objects in an array that have the same value in a specific key
     );
     return newArray;
     };
-### Example in files
+### Example  [CodeSandbox](https://codesandbox.io/s/group-by-property-function-qvokly)
