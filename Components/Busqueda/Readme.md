@@ -1,0 +1,1 @@
+### Example  [CodeSandbox](https://codesandbox.io/s/search-component-5o2ts9)
